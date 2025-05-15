@@ -6,9 +6,6 @@ This project demonstrates a simple yet powerful Retrieval-Augmented Generation (
 
 ---
 
-## 📁 Directory Structure
-
----
 
 ## 📓 Chatwithdoc.ipynb
 
